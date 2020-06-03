@@ -1,16 +1,7 @@
 {
-    "plugins": [
-        "mobi.monaca.plugins.Monaca"
-    ],
     "framework_version": "3.5",
-    "xcode_version": null,
-    "cordova_version": "5.2",
-    "plugin_settings": [],
-    "external_plugins": [
-        "cordova-plugin-whitelist@1.0.0",
-        "cordova-plugin-splashscreen@2.1.0",
-        "cordova-plugin-dialogs@1.1.1"
-    ],
+    "xcode_version": "11.3",
+    "cordova_version": "9.0",
     "title-ja": "連打アプリ",
     "title-en": "",
     "description-ja": "ニフティクラウドmobile backend学習用教材",
@@ -20,5 +11,6 @@
         "android",
         "ios"
     ],
-    "name": "generated-1467348192-57722d9afd17346325799376"
+    "name": "generated-1467348192-57722d9afd17346325799376",
+    "cordova_ios_platform": "5.1.1"
 }
